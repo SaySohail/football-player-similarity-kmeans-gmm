@@ -18,34 +18,34 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#introduction">1. Introduction</a></li>
-    <li><a href="#literature-review">2. Literature Review</a></li>
-    <li><a href="#data-processing">3. Data Processing</a>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#literature-review">Literature Review</a></li>
+    <li><a href="#data-processing">Data Processing</a>
      <ul>
-          <li><a href="#data-source">3.1 Data Source</a>
-          <li><a href="#data-description">3.2 Data Description</a>
-          <li><a href="#data-preprocessing">3.3 Data Preprocessing</a>
-          <li><a href="#feature-selection">3.4 Feature Selection</a>
-          <li><a href="#data-normalization">3.5 Data Normalization</a>
-          <li><a href="#dimensionality-reduction">3.6 Dimensionality Reduction using PCA</a>
+          <li><a href="#data-source">Data Source</a>
+          <li><a href="#data-description">Data Description</a>
+          <li><a href="#data-preprocessing">Data Preprocessing</a>
+          <li><a href="#feature-selection">Feature Selection</a>
+          <li><a href="#data-normalization">Data Normalization</a>
+          <li><a href="#dimensionality-reduction">Dimensionality Reduction using PCA</a>
      </ul>
     </li>
-    <li><a href="#learning-methods">4. Learning Methods</a>
+    <li><a href="#learning-methods">Learning Methods</a>
     <ul>
-          <li><a href="#kmeans">4.1 K-means</a>
-          <li><a href="#gmm">4.2 Gaussian Mixture Model (GMM)</a>
+          <li><a href="#kmeans">K-means</a>
+          <li><a href="#gmm">Gaussian Mixture Model (GMM)</a>
      </ul>
     </li>
-    <li><a href="#Analysis">5. Analysis</a>
+    <li><a href="#Analysis">Analysis</a>
     <ul>
-          <li><a href="#analysis-1">5.1 Analyzing Kylian Mbappé's Performance over the Last 5 Seasons</a>
-          <li><a href="#analysis-2">5.2 Closest Performing Players in the Last 5 Seasons</a>
-          <li><a href="#analysis-3">5.3 Closest Performing Players in the Current Season (2022-2023)</a>
-          <li><a href="#analysis-4">5.4 Closest Performing Young Players (u23) in the Current Season (2022-2023)</a>
+          <li><a href="#analysis-1">Analyzing Kylian Mbappé's Performance over the Last 5 Seasons</a>
+          <li><a href="#analysis-2">Closest Performing Players in the Last 5 Seasons</a>
+          <li><a href="#analysis-3">Closest Performing Players in the Current Season (2022-2023)</a>
+          <li><a href="#analysis-4">Closest Performing Young Players (u23) in the Current Season (2022-2023)</a>
      </ul>
     </li>
-    <li><a href="#conclusion">6. Conclusion</a></li>
-      <li><a href="#future-improvements">7. Future Improvements or Directions</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+      <li><a href="#future-improvements">Future Improvements or Directions</a></li>
   </ol>
 </details>
 
