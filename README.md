@@ -9,19 +9,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<!-- Introduction -->
-<h2 id="introduction"> Introduction</h2>
 
-<img src="data/mbappe.png" alt="Edd Webster" align="right" height="225px"></a>
-The aim of this project is to cluster the aggregated football performance data of the top 5 European Leagues (Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France) across five seasons (2018-19 to 2022-2023) to find players similar to 'Kylian Mbappé'.
-
-Clustering is a machine learning technique that groups similar data points based on their features. In this project, we will explore how to cluster football players similar to Kylian Mbappé using two popular clustering algorithms: K-means and Gaussian Mixture Model (GMM).
-
-To cluster football players similar to Kylian Mbappé, data was collected from FBref, including various features such as age, position, goals scored, assists made, and xG. After preprocessing and scaling the data, K-means and GMM algorithms were applied to cluster players based on their feature similarity. The clustering quality was evaluated using metrics such as Silhouette Score, Davies-Bouldin Index, and Calinski Harabasz Score.
-
-By clustering football players similar to Kylian Mbappé using K-means or GMM algorithms, we can identify potential candidates who have similar playing styles or attributes as him. This can help us in scouting new talents or comparing different players across leagues or teams. Clustering can also reveal interesting patterns or insights about how different features affect player performance or similarity.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -63,11 +51,10 @@ By clustering football players similar to Kylian Mbappé using K-means or GMM al
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
 <!-- Introduction -->
-<h2 id="introduction">1. Introduction</h2>
+<h2 id="introduction"> Introduction</h2>
 
-<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
+<img src="data/mbappe.png" align="right" height="225px"></a>
 The aim of this project is to cluster the aggregated football performance data of the top 5 European Leagues (Premier League in England, the Bundesliga in Germany, La Liga in Spain, Serie A in Italy, and Ligue 1 in France) across five seasons (2018-19 to 2022-2023) to find players similar to 'Kylian Mbappé'.
 
 Clustering is a machine learning technique that groups similar data points based on their features. In this project, we will explore how to cluster football players similar to Kylian Mbappé using two popular clustering algorithms: K-means and Gaussian Mixture Model (GMM).
